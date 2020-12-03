@@ -9,3 +9,6 @@ https://stackoverflow.com/questions/33869606/intellij-15-springboot-devtools-liv
 
 Junit tests for spring configuration classes to check bean registration on conditional property (ApplicationContextRunner)
 https://gist.github.com/Toparvion/26e2baf3b3fb89fa2f957e78fde5ef53
+
+Return json content along with file download
+https://stackoverflow.com/questions/57289988/provide-json-response-and-download-file-simultaneously-with-spring-boot
