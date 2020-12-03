@@ -15,3 +15,6 @@ https://stackoverflow.com/questions/57289988/provide-json-response-and-download-
 
 Upload csv and load to mysql
 https://bezkoder.com/spring-boot-upload-csv-file/
+
+Batch statements using namedParameterJdbcTemplate
+https://mkyong.com/spring/spring-named-parameters-examples-in-simplejdbctemplate/
