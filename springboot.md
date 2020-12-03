@@ -12,3 +12,6 @@ https://gist.github.com/Toparvion/26e2baf3b3fb89fa2f957e78fde5ef53
 
 Return json content along with file download
 https://stackoverflow.com/questions/57289988/provide-json-response-and-download-file-simultaneously-with-spring-boot
+
+Upload csv and load to mysql
+https://bezkoder.com/spring-boot-upload-csv-file/
